@@ -1,6 +1,7 @@
 # ABPJ1-Planejamento_Financeiro
 
 ## Objetivo Projeto
+
 Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
 
 - Informar o sálario como receita
@@ -22,5 +23,7 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
 2. Informar o valor de cada despesa
 3. O programa mostrará o saldo restante e a situação financeira
 
+
 ## Ferramentas utilizadas
 - Python 3.0
+- Visual Code Studio
