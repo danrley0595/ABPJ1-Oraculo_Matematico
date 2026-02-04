@@ -45,7 +45,8 @@ qtd_meses_meta = int(valor_meta // valor_mensal_meta)
 print(f"A sua meta de {valor_meta} será atingida em {qtd_meses_meta} meses.")
 
 #Adiciona o valor da meta as despesas
-saldo_atual = (somatoria_receitas - somatoria_desp +valor_mensal_meta)
+somatoria_desp = (somatoria_desp + valor_mensal_meta)
+saldo_atual = (somatoria_receitas - somatoria_desp)
 
 #Imprime condição do saldo atual com a meta
 print("Situação do saldo atual sem o valor da meta!\n")
@@ -56,11 +57,6 @@ elif saldo_atual == 0.0:
 else:
     print("Saldo Positivo, você está no Azul")
 
-#Apresenta Totais
+#Apresenta Totais com meta
 print(f"Valor total receitas: R$ {somatoria_receitas:.2f}")
 print(f"Valor total despesas: R$ {somatoria_desp:.2f}\n")
-
-
-
-
-
