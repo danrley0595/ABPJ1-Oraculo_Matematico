@@ -14,7 +14,7 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
   - Calcular o saldo restante(Com ou sem meta)
   - Informar a situação financeira(Saldo negativo, zero, positivo)
   - Informar Valor da meta e valor mensal que deseja par aatingir a meta
-  - Calcular 
+  - Calcular quantidade de meses para atingimento da meta
  
 ## Fluxograma
 
