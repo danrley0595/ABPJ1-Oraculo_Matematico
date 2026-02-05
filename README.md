@@ -23,18 +23,18 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
  
 ## Fluxograma
 
-<img width="662" height="1442" alt="ABPJ1 - Planejamento Financeiro drawio" src="https://github.com/user-attachments/assets/ca645a09-c8f1-49aa-879d-aa7e9d5733a8" />
-
+<img width="662" height="1470" alt="ABPJ1 - Planejamento Financeiro drawio (1)" src="https://github.com/user-attachments/assets/1473bdc3-2fdf-42ec-816f-71b90f73d803" />
 
 
 ## Como usar
 1. Informar o valor do sálario
 2. Informar o valor de cada despesa
 3. O programa mostrará a situação financeira e o saldo restante sem o valor da meta mensal
-4. Informar o valor da meta desejada
-5. Informar o valor da meta mensal
-6. O programa mostrará a quantidade de meses necessarios para atingimento da meta
-7. O programa mostrará a situação financeira e o saldo restante com o valor da meta mensal
+4. Será perguntado se deseja calcular a meta ou não(Finaliza o programa).
+5. Informar o valor da meta desejada
+6. Informar o valor da meta mensal
+7. O programa mostrará a quantidade de meses necessarios para atingimento da meta
+8. O programa mostrará a situação financeira e o saldo restante com o valor da meta mensal
    
 
 ## Ferramentas utilizadas
