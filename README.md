@@ -10,11 +10,15 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
     - Alimentação
     - Cartão
     - lazer
+    - Consume de água
+    - Consumo de energia
+    - Outras despesas
   - Somar todas as despesas
-  - Calcular o saldo restante(Com ou sem meta)
+  - Calcular o saldo restante(sem meta)
   - Informar a situação financeira(Saldo negativo, zero, positivo)
   - Informar Valor da meta e valor mensal que deseja par atingir a meta
   - Calcular quantidade de meses para atingimento da meta
+  - Calcular o saldo restante(sem meta)
   - Informar a situação financeira com a meta(Saldo negativo, zero, positivo)
  
 ## Fluxograma
