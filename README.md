@@ -23,7 +23,8 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
  
 ## Fluxograma
 
-![ABPJ1 - Planejamento Financeiro (1)](https://github.com/user-attachments/assets/cd874328-b07c-43bd-889f-24b4329a493d)
+<img width="662" height="1442" alt="ABPJ1 - Planejamento Financeiro drawio" src="https://github.com/user-attachments/assets/ca645a09-c8f1-49aa-879d-aa7e9d5733a8" />
+
 
 
 ## Como usar
