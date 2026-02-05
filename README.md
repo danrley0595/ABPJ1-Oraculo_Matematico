@@ -13,12 +13,14 @@ Esse projeto tem como por objetivo ajuar no controle financeiro, permitindo:
   - Somar todas as despesas
   - Calcular o saldo restante(Com ou sem meta)
   - Informar a situação financeira(Saldo negativo, zero, positivo)
-  - Informar Valor da meta e valor mensal que deseja par aatingir a meta
+  - Informar Valor da meta e valor mensal que deseja par atingir a meta
   - Calcular quantidade de meses para atingimento da meta
+  - Informar a situação financeira com a meta(Saldo negativo, zero, positivo)
  
 ## Fluxograma
 
-![ABPJ1 - Planejamento Financeiro](https://github.com/user-attachments/assets/28f394ac-432d-45e6-928f-3b4c43c1e41d)
+![ABPJ1 - Planejamento Financeiro (1)](https://github.com/user-attachments/assets/cd874328-b07c-43bd-889f-24b4329a493d)
+
 
 ## Como usar
 1. Informar o valor do sálario
